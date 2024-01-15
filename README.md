@@ -4,7 +4,7 @@ This is the source code for our course project for Software Engineering, 2023 fa
 - upload 3D point cloud files(.ply)
 - assemble two 3D scenes into one.
 - share their favorable 3D scenes with others in the community.
-## 代码目录说明
+## Code Repository Specification
 - #### client 
     functions related to point cloud operations, is contained in the Python file within the specified directory. The source code for all page components is stored in the "src/components" folder.
 - #### server
